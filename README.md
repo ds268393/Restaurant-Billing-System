@@ -4,3 +4,6 @@ This is a Restaurant Billing System project developed on Python language and SQl
 - 2). pip install "gmail" module for python
 #### Just double click on the "Restaurant Billing System.py" and you are good to go. 
 #### Also, there is an installer file, which you can directly install on your windows system.
+#### Keep all the files inside a single folder.
+## Username:  admin
+## Password:  admin
