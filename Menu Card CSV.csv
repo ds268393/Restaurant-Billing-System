@@ -1,0 +1,156 @@
+Sr_no,Category,Food_item,Rate
+1,Breakfast,kand Poha,70
+2,Breakfast,Upma,80
+3,Breakfast,5 Poori with Sabzi,100
+4,Breakfast,Chole Bhature,150
+5,Breakfast,Sabudana Khichdi,90
+6,Breakfast,Sabudana Vada,110
+7,Breakfast,Mixed Pakoda,120
+8,Breakfast,Paneer Pakoda,170
+9,Breakfast,Bread Pakoda,50
+10,Thali,Mini Thali,120
+11,Thali,Punjabi Thali,220
+12,Thali,Gujarati Thali,220
+13,Thali,Chinese Thali,170
+14,Starters,Veg Manchurian,170
+15,Starters,Chilli Paneer,200
+16,Starters,Gobhi Manchurian,180
+17,Starters,Chilli Potato,180
+18,Starters,Chilli Soyabean,180
+19,Starters,Paneer 65,220
+20,Starters,Veg 65,210
+21,Starters,Paneer Crispy,270
+22,Main Course,Dal Fry,120
+23,Main Course,Dal Tadka,150
+24,Main Course,Jain Dal Fry,120
+25,Main Course,Butter Dal Fry,150
+26,Main Course,Dal Makhni,180
+27,Main Course,Dal Makhni Tadka,200
+28,Main Course,Aloo Jeera,130
+29,Main Course,Aloo Fry,130
+30,Main Course,Aloo Gobhi,150
+31,Main Course,Aloo Tomato,130
+32,Main Course,Aloo Raseela,120
+33,Main Course,Aloo Bhindi,190
+34,Main Course,Aloo Baingan,160
+35,Main Course,Aloo Matar,150
+36,Main Course,Aloo Paalak,160
+37,Main Course,Lehsuni Paalak,180
+38,Main Course,Gobhi Masala,160
+39,Main Course,Gobhi Matar,160
+40,Main Course,Baingan Masala,180
+41,Main Course,Bhindi Fry,160
+42,Main Course,Bhindi Masala,160
+43,Main Course,Chana Masala,150
+44,Main Course,Rajma Masala,150
+45,Main Course,Soyabean Masala,150
+46,Main Course,Special Sev Bhaji,150
+47,Main Course,Sev Bhaji,120
+48,Main Course,Sev Tomato,160
+49,Main Course,Green Peas Masala,180
+50,Main Course,Veg Kolhapuri,190
+51,Main Course,Veg Hyderabadi,190
+52,Main Course,Veg Kadhai,280
+53,Main Course,Veg Handi,280
+54,Main Course,Veg Patiala,280
+55,Main Course,Veg Anagra,320
+56,Main Course,Mushroom Masala,220
+57,Main Course,Kaju Curry,260
+58,Main Course,Kaju Kadhai,340
+59,Main Course,Kaju Masala,290
+60,Main Course,Kaju Handi,340
+61,Main Course,Mushroom Kadhai,280
+62,Main Course,Veg Makkhanwala,240
+63,Main Course,Dum Aloo Punjabi,260
+64,Main Course,Chesse Butter Masala,270
+65,Main Course,Chana Paneer,190
+66,Main Course,Matar Paneer,250
+67,Main Course,Palak Paneer,250
+68,Main Course,Paneer Makkahnwala,280
+69,Main Course,Paneer Masala,220
+70,Main Course,Shahi Paneer,220
+71,Main Course,Paneer Buttermasala,250
+72,Main Course,Paneer Chatpata,260
+73,Main Course,Paneer Do Pyaza,280
+74,Main Course,Kaleji Paneer,350
+75,Main Course,Paneer Kolhapuri,280
+76,Main Course,Paneer Tikka Masala,300
+77,Main Course,Paneer Kasturi,270
+78,Main Course,Paneer Punjabi,270
+79,Main Course,Kadhai Paneer,280
+80,Main Course,Tawa Paneer,300
+81,Main Course,Paneer Hungama,300
+82,Main Course,Paneer Angara,320
+83,Main Course,Kaju Paneer Handi,330
+84,Main Course,Paneer Pasand,350
+85,Breads,Chapati,18
+86,Breads,Butter Chapati,22
+87,Breads,Plain Paratha,40
+88,Breads,Aloo Paratha,90
+89,Breads,Gobhi Paratha,90
+90,Breads,Onion Paratha,80
+91,Breads,Paneer Paratha,120
+92,Breads,Mixed Paratha,120
+93,Breads,Cheese Paratha,120
+94,Breads,Laccha Paratha,80
+95,Breads,Tandoori Aloo Paratha,100
+96,Breads,Tandoori Aloo Pyaz Paratha,100
+97,Breads,Tandoori Gobhi Paratha,100
+98,Breads,Tandoori Onion Paratha,90
+99,Breads,Tandoori Paneer Paratha,130
+100,Breads,Tandoori Mixed Paratha,120
+101,Breads,Tandoori Roti,25
+102,Breads,Tandoori Butter Roti,30
+103,Breads,Tandoori Plain Naan,60
+104,Breads,Butter Naan,70
+105,Breads,Aloo Naan,90
+106,Breads,Paneer Naan,120
+107,Breads,Butter Garlic Naan,90
+108,Rice & Biryani,Plain Rice,110
+109,Rice & Biryani,Jeera Rice,130
+110,Rice & Biryani,Masala Rice,170
+111,Rice & Biryani,Lemon Rice,130
+112,Rice & Biryani,Curd Rice,130
+113,Rice & Biryani,Veg Pulao,180
+114,Rice & Biryani,Paneer Pulao,250
+115,Rice & Biryani,Tawa Pulao,190
+116,Rice & Biryani,Kaju Pulao,280
+117,Rice & Biryani,Dal Khichdi,160
+118,Rice & Biryani,Dal Khichdi Tadka,180
+119,Rice & Biryani,Veg Biryani,200
+120,Rice & Biryani,Kaju Biryani,250
+121,Rice & Biryani,Veg Hyderabadi Biryani,280
+122,South Indian,Idli Sambhar,60
+123,South Indian,Medu Vada,90
+124,South Indian,Saada Dosa,80
+125,South Indian,Masala Dosa,90
+126,South Indian,Plain Butter Dosa,90
+127,South Indian,Paneer Masala Dosa,110
+128,South Indian,Butter Masala Dosa,120
+129,South Indian,Onion Dosa,90
+130,South Indian,Mysore Masala Dosa,130
+131,South Indian,Onion Uttapam,95
+132,South Indian,Plain Uttapam,80
+133,South Indian,Tomato Uttapam,80
+134,South Indian,Masala Uttapam,100
+135,South Indian,Mixed Uttapam,120
+136,Fried Rice & Noodles,Veg Fried Rice,150
+137,Fried Rice & Noodles,Paneer Fried Rice,190
+138,Fried Rice & Noodles,Veg Manchurian Fried Rice,200
+139,Fried Rice & Noodles,Chilli Garlic Fried Rice,200
+140,Fried Rice & Noodles,Schezwan Fried Rice,200
+141,Fried Rice & Noodles,Triple Schezwan Fried Rice,280
+142,Fried Rice & Noodles,Veg Noodles,150
+143,Fried Rice & Noodles,Chilli Garlic Noodles,200
+144,Fried Rice & Noodles,Paneer Garlic Noodles,290
+145,Fried Rice & Noodles,Hakka Noodles,200
+146,Fried Rice & Noodles,Schezwan Noodles,200
+147,Fried Rice & Noodles,Mushroom Noodles,250
+148,Hot & Cold Beverages,Tea,30
+149,Hot & Cold Beverages,Masala Tea,40
+150,Hot & Cold Beverages,Coffee,35
+151,Hot & Cold Beverages,Mineral Water,25
+152,Hot & Cold Beverages,Soft Beverage,50
+153,Hot & Cold Beverages,Sweet Lassi,90
+154,Hot & Cold Beverages,Salted Lassi,80
+155,Hot & Cold Beverages,Butter Milk,50
